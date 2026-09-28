@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+census-places-2025.zip
+fuel-prices-for-be-assessment.csv
